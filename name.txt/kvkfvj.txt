@@ -1,0 +1,2 @@
+This is change I made 
+this is an example of merge conflict.
